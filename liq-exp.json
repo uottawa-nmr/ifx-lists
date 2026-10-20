@@ -12,4 +12,5 @@
   {"label": "NOESY", "value": "NOESY"},
   {"label": "TOCSY", "value": "TOCSY"},
   {"label": "Other (non-routine)", "value": "Other (non-routine)"}
+  {"label": "TEST", "value": "TEST"}
 ]
