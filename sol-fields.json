@@ -1,5 +1,9 @@
 [
   {
+    "label": "200 MHz (wide-bore)",
+    "value": "200 MHz (wide-bore)"
+  },
+  {
     "label": "400 MHz (wide-bore)",
     "value": "400 MHz (wide-bore)"
   },
