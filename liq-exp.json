@@ -4,7 +4,7 @@
   {"label": "¹³C", "value": "¹³C"},
   {"label": "¹³C{¹H} (¹H decoupled)", "value": "¹³C{¹H} (¹H decoupled)"},
   {"label": "¹³C DEPT-135", "value": "¹³C DEPT-135"},
-  {"label": "NOE (specify peaks to irradiate), "value": "NOE (specify peaks to irradiate)"},
+  {"label": "NOE (specify peaks to irradiate)", "value": "NOE (specify peaks to irradiate)"},
   {"label": "2D COSY", "value": "2D COSY"},
   {"label": "¹³C-¹H HSQC", "value": "¹³C-¹H HSQC"},
   {"label": "¹³C-¹H HMBC", "value": "¹³C-¹H HMBC"},
