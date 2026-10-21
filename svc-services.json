@@ -1,0 +1,34 @@
+[
+  {
+    "label": "F300-Cry01 — LN2 fill, F300 (per fill)",
+    "value": "F300-Cry01 — LN2 fill, F300 (per fill)"
+  },
+  {
+    "label": "F300-Cry02 — LHe fill, F300 (per litre)",
+    "value": "F300-Cry02 — LHe fill, F300 (per litre)"
+  },
+  {
+    "label": "STAFF-TECH — technician time (per hour)",
+    "value": "STAFF-TECH — technician time (per hour)"
+  },
+  {
+    "label": "STAFF-MGR — manager time (per hour)",
+    "value": "STAFF-MGR — manager time (per hour)"
+  },
+  {
+    "label": "TRAIN-HR — extended training (per hour)",
+    "value": "TRAIN-HR — extended training (per hour)"
+  },
+  {
+    "label": "MIN-TOPUP — minimum-charge top-up (per dollar)",
+    "value": "MIN-TOPUP — minimum-charge top-up (per dollar)"
+  },
+  {
+    "label": "Vendor service or repair recharge (service to create)",
+    "value": "Vendor service or repair recharge (service to create)"
+  },
+  {
+    "label": "Other (describe in Basis)",
+    "value": "Other (describe in Basis)"
+  }
+]

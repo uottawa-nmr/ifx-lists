@@ -1,0 +1,62 @@
+[
+  {
+    "label": "¹H MAS",
+    "value": "¹H MAS"
+  },
+  {
+    "label": "¹³C CP/MAS",
+    "value": "¹³C CP/MAS"
+  },
+  {
+    "label": "¹³C CP/MAS + TOSS",
+    "value": "¹³C CP/MAS + TOSS"
+  },
+  {
+    "label": "¹³C CP/MAS dipolar dephasing",
+    "value": "¹³C CP/MAS dipolar dephasing"
+  },
+  {
+    "label": "¹³C direct polarization (quantitative)",
+    "value": "¹³C direct polarization (quantitative)"
+  },
+  {
+    "label": "¹⁵N CP/MAS",
+    "value": "¹⁵N CP/MAS"
+  },
+  {
+    "label": "¹⁹F MAS",
+    "value": "¹⁹F MAS"
+  },
+  {
+    "label": "²⁹Si MAS",
+    "value": "²⁹Si MAS"
+  },
+  {
+    "label": "²⁹Si CP/MAS",
+    "value": "²⁹Si CP/MAS"
+  },
+  {
+    "label": "³¹P MAS",
+    "value": "³¹P MAS"
+  },
+  {
+    "label": "³¹P CP/MAS",
+    "value": "³¹P CP/MAS"
+  },
+  {
+    "label": "²⁷Al MAS",
+    "value": "²⁷Al MAS"
+  },
+  {
+    "label": "¹H–¹³C HETCOR",
+    "value": "¹H–¹³C HETCOR"
+  },
+  {
+    "label": "MQMAS",
+    "value": "MQMAS"
+  },
+  {
+    "label": "Other (non-routine)",
+    "value": "Other (non-routine)"
+  }
+]

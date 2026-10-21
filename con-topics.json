@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Experiment or method advice",
+    "value": "Experiment or method advice"
+  },
+  {
+    "label": "Non-routine experiment",
+    "value": "Non-routine experiment"
+  },
+  {
+    "label": "Quantitative NMR",
+    "value": "Quantitative NMR"
+  },
+  {
+    "label": "Reaction monitoring or kinetics",
+    "value": "Reaction monitoring or kinetics"
+  },
+  {
+    "label": "Variable temperature",
+    "value": "Variable temperature"
+  },
+  {
+    "label": "Sample needing prior approval",
+    "value": "Sample needing prior approval"
+  },
+  {
+    "label": "Data processing or interpretation",
+    "value": "Data processing or interpretation"
+  },
+  {
+    "label": "Structure elucidation support",
+    "value": "Structure elucidation support"
+  },
+  {
+    "label": "Solid-state method development",
+    "value": "Solid-state method development"
+  },
+  {
+    "label": "EPR or NQR measurement",
+    "value": "EPR or NQR measurement"
+  },
+  {
+    "label": "Quote for an external client",
+    "value": "Quote for an external client"
+  },
+  {
+    "label": "Other",
+    "value": "Other"
+  }
+]

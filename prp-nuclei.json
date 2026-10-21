@@ -1,0 +1,50 @@
+[
+  {
+    "label": "¹H",
+    "value": "¹H"
+  },
+  {
+    "label": "⁷Li",
+    "value": "⁷Li"
+  },
+  {
+    "label": "¹¹B",
+    "value": "¹¹B"
+  },
+  {
+    "label": "¹³C",
+    "value": "¹³C"
+  },
+  {
+    "label": "¹⁵N",
+    "value": "¹⁵N"
+  },
+  {
+    "label": "¹⁷O",
+    "value": "¹⁷O"
+  },
+  {
+    "label": "¹⁹F",
+    "value": "¹⁹F"
+  },
+  {
+    "label": "²³Na",
+    "value": "²³Na"
+  },
+  {
+    "label": "²⁷Al",
+    "value": "²⁷Al"
+  },
+  {
+    "label": "²⁹Si",
+    "value": "²⁹Si"
+  },
+  {
+    "label": "³¹P",
+    "value": "³¹P"
+  },
+  {
+    "label": "Other",
+    "value": "Other"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "label": "CDCl₃",
+    "value": "CDCl₃"
+  },
+  {
+    "label": "DMSO-d₆",
+    "value": "DMSO-d₆"
+  },
+  {
+    "label": "D₂O",
+    "value": "D₂O"
+  },
+  {
+    "label": "CD₃OD",
+    "value": "CD₃OD"
+  },
+  {
+    "label": "C₆D₆",
+    "value": "C₆D₆"
+  },
+  {
+    "label": "(CD₃)₂CO",
+    "value": "(CD₃)₂CO"
+  },
+  {
+    "label": "CD₂Cl₂",
+    "value": "CD₂Cl₂"
+  },
+  {
+    "label": "Other (specify)",
+    "value": "Other (specify)"
+  }
+]
