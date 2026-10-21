@@ -8,23 +8,19 @@
     "value": "Up to 7 kHz"
   },
   {
-    "label": "7 to 15 kHz",
-    "value": "7 to 15 kHz"
+    "label": "7 to 10 kHz",
+    "value": "7 to 10 kHz"
+  },
+  {
+    "label": "10 to 15 kHz",
+    "value": "10 to 15 kHz"
   },
   {
     "label": "15 to 24 kHz",
     "value": "15 to 24 kHz"
   },
   {
-    "label": "24 to 35 kHz",
-    "value": "24 to 35 kHz"
-  },
-  {
-    "label": "35 to 42 kHz (fast MAS)",
-    "value": "35 to 42 kHz (fast MAS)"
-  },
-  {
-    "label": "Above 42 kHz (fast MAS)",
-    "value": "Above 42 kHz (fast MAS)"
+    "label": "24 to 35 kHz (fast MAS)",
+    "value": "24 to 35 kHz (fast MAS)"
   }
 ]
